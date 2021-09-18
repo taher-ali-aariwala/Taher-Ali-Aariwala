@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Wordpress or any tech related stuff.**
 
-- 📫 How to reach me **dbtaher786@gmail.com**
+- 📫 How to reach me **taheraari53@gmail.com**
 
 - ⚡ Fun fact **I play games almost 6 hours everyday.**
 
