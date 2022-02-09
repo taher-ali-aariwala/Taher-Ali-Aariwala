@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact **I play games almost 6 hours everyday.**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">If I sound like someone you’d like to meet or if you’re interested in working with me please contact me using any of the methods below to get in touch.</h3>
 <p align="left">
 <a href="https://twitter.com/taheraari99" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="taheraari99" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/taher-ali-aariwala" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="taher-ali-aariwala" height="30" width="40" /></a>
