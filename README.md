@@ -21,7 +21,7 @@
 <a href="https://linkedin.com/in/taher-ali-aariwala" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="taher-ali-aariwala" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/14977749" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="14977749" height="30" width="40" /></a>
 <a href="https://www.facebook.com/taher.ali.aariwala/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="taher.ali.aari" height="30" width="40" /></a>
-<a href="https://instagram.com/taher___aari10" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="taher___aari10" height="30" width="40" /></a>
+<a href="https://www.instagram.com/coding_tips_forever/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="taher___aari10" height="30" width="40" /></a>
 <a href="https://dribbble.com/coding_tips_forever" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/dribbble.svg" alt="coding_tips_forever" height="30" width="40" /></a>
 </p>
 
