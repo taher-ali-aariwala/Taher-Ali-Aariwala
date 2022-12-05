@@ -3,4 +3,4 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=taher-web&label=Profile%20views&color=0e75b6&style=flat" alt="taher-web" /> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=taher-ali-aariwala&show_icons=true&theme=radical" alt="taher-ali-aariwala" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=taher-ali-aariwala&show_icons=true&theme=buefy" alt="taher-ali-aariwala" /></p>
